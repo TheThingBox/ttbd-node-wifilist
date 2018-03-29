@@ -1,0 +1,20 @@
+{
+  "name": "ttbd-node-wifilist",
+  "version": "0.0.1",
+  "description": "Get the detected wifi.",
+  "node-red": {
+    "nodes": {
+      "wifilist": "wifilist.js"
+    }
+  },
+  "dependencies": {
+    "ttbd-wifi-util": "TheThingBox/ttbd-wifi-util#376aff9"
+  },
+  "keywords": [
+    "node-red",
+    "list",
+    "wifi"
+  ],
+  "author": "http://www.digitalairways.com/",
+  "license": "http://www.wtfpl.net"
+}
